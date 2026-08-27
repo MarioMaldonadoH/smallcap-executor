@@ -6,7 +6,8 @@ Canal oficial de descarga de **SmallCap Executor**, de SMALLCAP MARKET SYSTEMS L
 
 La última versión está en **[Releases](../../releases/latest)**.
 
-Descarga `SmallCapExecutor.exe` y ejecútalo. No requiere instalación.
+Descarga `SmallCapExecutor-win64.zip`, descomprímelo en una carpeta de tu
+usuario y ejecuta `SmallCapExecutor.exe` desde ahí. No requiere instalación.
 
 ## Necesitas una licencia
 
@@ -18,13 +19,13 @@ Para comprar: [mariomaldonado.com](https://mariomaldonado.com/smallcap-executor/
 
 ## Aviso de Windows
 
-El ejecutable todavía no está firmado con un certificado de código, así que
+El programa todavía no está firmado con un certificado de código, así que
 Windows puede mostrar una advertencia de SmartScreen la primera vez. Es
 esperado. Puedes verificar que el archivo es el nuestro comparando su SHA-256
 con el publicado en cada Release.
 
 ```powershell
-(Get-FileHash .\SmallCapExecutor.exe -Algorithm SHA256).Hash
+(Get-FileHash .\SmallCapExecutor-win64.zip -Algorithm SHA256).Hash
 ```
 
 ## Advertencia de riesgo
