@@ -74,7 +74,11 @@ El enlace abre la página oficial de descargas:
 
 `https://github.com/MarioMaldonadoH/smallcap-executor/releases/latest`
 
-Ahí están dos archivos. Baja los dos:
+![Página de descargas con los archivos CENTINELA-win64.zip y Manual-LUMBRE.pdf](img/01b-release.png)
+
+*La página de descargas. Abajo, en «Assets»: (1) el programa y (2) este manual.*
+
+Ahí están dos archivos. Baja los dos con un clic en cada nombre:
 
 - **`CENTINELA-win64.zip`**: el programa. Se llama CENTINELA porque el mismo programa sirve a dos productos; el tuyo se muestra como LUMBRE en cuanto activas la licencia.
 - **`Manual-LUMBRE.pdf`**: este manual.
