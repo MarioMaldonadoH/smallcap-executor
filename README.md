@@ -6,8 +6,22 @@ Canal oficial de descarga de **SmallCap Executor**, de SMALLCAP MARKET SYSTEMS L
 
 La última versión está en **[Releases](../../releases/latest)**.
 
-Descarga `SmallCapExecutor-win64.zip`, descomprímelo en una carpeta de tu
-usuario y ejecuta `SmallCapExecutor.exe` desde ahí. No requiere instalación.
+Descarga `CENTINELA-win64.zip`, descomprímelo en una carpeta de tu usuario y
+ejecuta `CENTINELA.exe` desde ahí. El mismo programa sirve a CENTINELA y a
+LUMBRE: se muestra con el nombre de tu producto al activar la licencia.
+
+## Manual de LUMBRE
+
+Junto al programa, en cada Release, viene **`Manual-LUMBRE.pdf`**: descarga,
+instalación, activación de la licencia, Set & Forget, cada ventana, Telegram y
+solución de problemas, con las pantallas reales.
+
+- PDF: [manual/Manual-LUMBRE.pdf](manual/Manual-LUMBRE.pdf)
+- En texto, para leerlo aquí o dárselo a tu asistente de IA:
+  [manual/MANUAL-LUMBRE.md](manual/MANUAL-LUMBRE.md)
+
+Puedes entregarle el manual a ChatGPT, Claude o el asistente que uses y pedirle
+que te guíe paso a paso. El capítulo 15 trae sus instrucciones.
 
 ## Necesitas una licencia
 
@@ -25,7 +39,7 @@ esperado. Puedes verificar que el archivo es el nuestro comparando su SHA-256
 con el publicado en cada Release.
 
 ```powershell
-(Get-FileHash .\SmallCapExecutor-win64.zip -Algorithm SHA256).Hash
+(Get-FileHash .\CENTINELA-win64.zip -Algorithm SHA256).Hash
 ```
 
 ## Advertencia de riesgo
